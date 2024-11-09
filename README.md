@@ -1,18 +1,19 @@
-# SRRFN_paddle
+![image](https://github.com/user-attachments/assets/bdb3dba7-779d-4bf3-944d-d5f94eaea30a)# SRRFN_paddle
 
-ClassSR: Lightweight and Accurate Recursive Fractal Network for Image Super-Resolution
+Lightweight and Accurate Recursive Fractal Network for Image Super-Resolution
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kong_ClassSR_A_General_Framework_to_Accelerate_Super-Resolution_Networks_by_Data_CVPR_2021_paper.pdf)
-
+[Paper]
+(http://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Li_Lightweight_and_Accurate_Recursive_Fractal_Network_for_Image_Super-Resolution_ICCVW_2019_paper.html)
 
 Paddle 复现版本
 
 ## 数据集
+DIV2K
+https://data.vision.ee.ethz.ch/cvl/DIV2K/
+Set5
+https://drive.google.com/drive/folders/1pRmhEmmY-tPF7uH8DuVthfHoApZWJ1QU
 
-分类之后训练集用于训练SR模块
-https://aistudio.baidu.com/aistudio/datasetdetail/106261
-## aistudio
-脚本任务地址: https://aistudio.baidu.com/aistudio/clusterprojectdetail/2356381
+
 ## 训练模型
 链接：https://pan.baidu.com/s/1AhuC4hRTfXdpP93Tqs2NLg 
 提取码：1234 
