@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bdb3dba7-779d-4bf3-944d-d5f94eaea30a)# SRRFN_paddle
+# SRRFN_paddle
 
 Lightweight and Accurate Recursive Fractal Network for Image Super-Resolution
 
